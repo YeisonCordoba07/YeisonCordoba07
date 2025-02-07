@@ -1,8 +1,8 @@
 ## 🔥 Sobre Mí  
 
-🎓 **Estudiante de Ingeniería de Sistemas** en la **Universidad de Antioquia**.  
+🎓 Soy Yeison Cordoba, **Estudiante de Ingeniería de Sistemas** en la **Universidad de Antioquia**.  
 💻 Apasionado por el desarrollo web y con conocimientos en:  
-&nbsp;&nbsp;&nbsp;&nbsp;🚀 **Frontend**: React, Angular, NextJS, Astro, Sass, TypeScript, Tailwind CSS  
+&nbsp;&nbsp;&nbsp;&nbsp;🚀 **Frontend**: React, Angular, NextJS, Astro, Sass, JavaScript, TypeScript, Tailwind CSS  
 &nbsp;&nbsp;&nbsp;&nbsp;⚙️ **Backend**: Java, Spring Boot  
 &nbsp;&nbsp;&nbsp;&nbsp;🛢️ **Bases de Datos**: MySQL  
 &nbsp;&nbsp;&nbsp;&nbsp;📜 **Otros Lenguajes**: Python, C#
