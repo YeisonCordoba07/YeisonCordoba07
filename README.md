@@ -1,7 +1,9 @@
+
+
 ## 🔥Sobre mi
 Soy Estudiante de **Ingeniería de Sistemas** en la Universidad de antioquia.
 Tengo conocimientos en **React**, **Angular**, **Java**, **MySQL**, **python**, **TypeScript**, **Tailwind CSS** y **Next.js**, tecnologías con las que he desarrollado varios proyectos para mejorar mis habilidades. 
-Cada uno fue un desafío con el que pude mejorar poco a poco mis conocimientos y adquirir nuevas destrezas. En mi [GitHub](https://github.com/YeisonCordoba07) se puede la evolución comparando los primeros proyectos y los mas recientes.
+Cada proyecto ha sido un desafío que me ha permitido mejorar mis conocimientos y adquirir nuevas habilidades. En mi [GitHub](https://github.com/YeisonCordoba07) se puede ver mi evolución, comparando mis primeros proyectos con los más recientes.
 
 Empecé creando sitios web simples usando únicamente HTML y CSS. Luego integré JavaScript, lo que me llevó a usar frameworks como React y Angular.
 
@@ -95,15 +97,13 @@ Actualmente estoy buscando oportunidades de prácticas académicas, con ganar de
 
 
 
-## 📞 Contacto
 
-<div align="center">
-  
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)  | ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) | ![Website](https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=google-chrome&logoColor=white)   | ![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-green?style=for-the-badge&logo=Adobe-Acrobat-Reader&logoColor=white)   |
-|------------|------------|------------|------------|
-| [YeisonCordoba07](https://www.linkedin.com/in/yeisoncordoba07/) |  [yalexander.cordoba@gmail.com](mailto:yalexander.cordoba@gmail.com) |  [yeisoncordoba07.github.io](https://yeisoncordoba07.github.io) |  [yeisoncordoba07.github.io](https://yeisoncordoba07.github.io) |
-</div>
+## 📞 Contacto  
 
+📩 **Email:** [yalexander.cordoba@gmail.com](mailto:yalexander.cordoba@gmail.com)  
+💼 **LinkedIn:** [YeisonCordoba07](https://www.linkedin.com/in/yeisoncordoba07/)  
+🌍 **Website:** [yeisoncordoba07.github.io](https://yeisoncordoba07.github.io)  
+📄 **Curriculum Vitae:** [Descargar](https://yeisoncordoba07.github.io)  
 
 
 <!--
