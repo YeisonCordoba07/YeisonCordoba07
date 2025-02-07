@@ -21,77 +21,53 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" />
-        </a>
         <br>HTML
       </td>
       <td align="center">
-        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" />
-        </a>
         <br>CSS
       </td>
       <td align="center">
-        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
-        </a>
         <br>JavaScript
       </td>
       <td align="center">
-        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" />
-        </a>
         <br>TypeScript
       </td>
       <td align="center">
-        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
-        </a>
         <br>React
       </td>
       <td align="center">
-        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular" />
-        </a>
         <br>Angular
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" />
-        </a>
         <br>Next.js
       </td>
       <td align="center">
-        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="Astro" />
-        </a>
         <br>Astro
       </td>
       <td align="center">
-        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="TailwindCSS" />
-        </a>
         <br>TailwindCSS
       </td>
       <td align="center">
-        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />
-        </a>
         <br>Java
       </td>
       <td align="center">
-        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" />
-        </a>
         <br>Spring
       </td>
       <td align="center">
-        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
-        </a>
         <br>MySQL
       </td>
     </tr>
