@@ -10,27 +10,98 @@ Sigo aprendiendo continuamente, lo que me permite refinar mis habilidades en las
 Actualmente estoy buscando oportunidades de prácticas académicas, con ganar de aplicar e incrementar mis conocimientos en un entorno profesional.
 
 
+## 🛠️ Habilidades
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular" />
+      </a>
+      <br>Angular
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="Astro" />
+      </a>
+      <br>Astro
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="TailwindCSS" />
+      </a>
+      <br>TailwindCSS
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" />
+      </a>
+      <br>Spring
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+  </tr>
+</table>
 
-## ⚙️ Habilidades
-<p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,sass,js,ts,react,angular,nextjs,astro,tailwind,java,spring,mysql&theme=dark" />
-  </a>
+
+
+## 📞 Contacto
+
+<p align="center">
+  
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)  | ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) | ![Website](https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=google-chrome&logoColor=white)   | ![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-green?style=for-the-badge&logo=Adobe-Acrobat-Reader&logoColor=white)   |
+|------------|------------|------------|------------|
+| [YeisonCordoba07](https://www.linkedin.com/in/yeisoncordoba07/) |  [yalexander.cordoba@gmail.com](mailto:yalexander.cordoba@gmail.com) |  [yeisoncordoba07.github.io](https://yeisoncordoba07.github.io) |  [yeisoncordoba07.github.io](https://yeisoncordoba07.github.io) |
 </p>
 
 
-
-## 📫 Contacto
-<p >
-  <a href="https://www.linkedin.com/in/yeisoncordoba07/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
-</p>
-
-## 🔗 Porfolio / Hoja de vida
-
-* [Mi página web](https://yeisoncordoba07.github.io)
-* [Hoja de vida (PDF)]()
 
 <!--
 **YeisonCordoba07/YeisonCordoba07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
