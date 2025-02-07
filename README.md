@@ -82,7 +82,7 @@
 📩 **Email:** [yalexander.cordoba@gmail.com](mailto:yalexander.cordoba@gmail.com)  
 💼 **LinkedIn:** [YeisonCordoba07](https://www.linkedin.com/in/yeisoncordoba07/)  
 🌍 **Website:** [yeisoncordoba07.github.io](https://yeisoncordoba07.github.io)  
-📄 **Curriculum Vitae:** [Descargar](https://drive.google.com/file/d/1A5lGA9BbN7OeWUvTBawryiCkYTHTifi4/view?usp=sharing)  
+📄 **Curriculum Vitae / Hoja de Vida:** [Descargar](https://drive.google.com/file/d/1A5lGA9BbN7OeWUvTBawryiCkYTHTifi4/view?usp=sharing)  
 
 
 <!--
