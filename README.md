@@ -1,15 +1,18 @@
+## 🔥 Sobre Mí  
 
+🎓 **Estudiante de Ingeniería de Sistemas** en la **Universidad de Antioquia**.  
+💻 Apasionado por el desarrollo web y con conocimientos en:  
+&nbsp;&nbsp;&nbsp;&nbsp;🚀 **Frontend**: React, Angular, NextJS, Astro, Sass, TypeScript, Tailwind CSS  
+&nbsp;&nbsp;&nbsp;&nbsp;⚙️ **Backend**: Java, Spring Boot  
+&nbsp;&nbsp;&nbsp;&nbsp;🛢️ **Bases de Datos**: MySQL  
+&nbsp;&nbsp;&nbsp;&nbsp;📜 **Otros Lenguajes**: Python, C#
 
-## 🔥Sobre mi
-Soy Estudiante de **Ingeniería de Sistemas** en la Universidad de antioquia.
-Tengo conocimientos en **React**, **Angular**, **Java**, **MySQL**, **python**, **TypeScript**, **Tailwind CSS** y **Next.js**, tecnologías con las que he desarrollado varios proyectos para mejorar mis habilidades. 
-Cada proyecto ha sido un desafío que me ha permitido mejorar mis conocimientos y adquirir nuevas habilidades. En mi [GitHub](https://github.com/YeisonCordoba07) se puede ver mi evolución, comparando mis primeros proyectos con los más recientes.
+📈 He desarrollado diferentes proyectos que muestran mi evolución como desarrollador. Puedes verlos en mi [GitHub](https://github.com/YeisonCordoba07).  
 
-Empecé creando sitios web simples usando únicamente HTML y CSS. Luego integré JavaScript, lo que me llevó a usar frameworks como React y Angular.
+📚 **Aprendizaje constante**: Comencé con HTML y CSS, luego integré JavaScript y frameworks como React y Angular. Actualmente, estoy aprendiendo **Astro**, con el cual creé mi [portafolio](https://yeisoncordoba07.github.io).  
 
-Sigo aprendiendo continuamente, lo que me permite refinar mis habilidades en las tecnologías mencionadas. Actualmente estoy aprendiendo Astro para ampliar mis conocimientos en desarrollo web y como parte de este aprendizaje, desarrollé mi [portafolio](https://yeisoncordoba07.github.io) utilizando esta tecnologia, lo que me permitió fortalecer mis habilidades prácticas.
+🎯 **Busco oportunidades** de prácticas académicas para aplicar y fortalecer mis conocimientos en un entorno profesional.  
 
-Actualmente estoy buscando oportunidades de prácticas académicas, con ganar de aplicar e incrementar mis conocimientos en un entorno profesional.
 
 
 ## 🛠️ Habilidades
