@@ -12,7 +12,7 @@
 
 📈 He desarrollado diferentes proyectos que muestran mi evolución como desarrollador. Puedes verlos en mi [GitHub](https://github.com/YeisonCordoba07).  
 
-📚 **Aprendizaje constante**: Comencé con HTML y CSS, luego integré JavaScript y frameworks como React y Angular. Actualmente, estoy aprendiendo **Astro**, con el cual creé mi [portafolio](https://yeisoncordoba07.github.io).  
+📚 **Aprendizaje constante**: Comencé con HTML y CSS, luego integré JavaScript y finalmente continue con React y Angular. Actualmente, estoy aprendiendo **Astro**, con el cual creé mi [portafolio](https://yeisoncordoba07.github.io).  
 
 🎯 **Busco oportunidades** de prácticas académicas para aplicar y fortalecer mis conocimientos en un entorno profesional.  
 
