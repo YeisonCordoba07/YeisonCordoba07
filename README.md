@@ -4,8 +4,9 @@
 
 
 ## 🔥 Sobre Mí  
-  🎓 Soy Yeison Cordoba, **estudiante de Ingeniería de Sistemas** en la **Universidad de Antioquia**. Poseo conocimientos en desarrollo **Frontend** y **Backend**. 
-  Estoy motivado por enfrentar retos, desafíos o problemas complejos y encontrar soluciones innovadoras.
+  🎓 Soy Yeison Cordoba, **estudiante de Ingeniería de Sistemas** en la **Universidad de Antioquia**. <br>  💻Poseo conocimientos en desarrollo **Frontend** y **Backend**. <br>
+  🌟Estoy motivado por enfrentar retos, desafíos o problemas complejos y encontrar soluciones innovadoras. <br>
+  🎯Actualmente busco una oportunidad de **práctica académica** donde pueda aplicar mis conocimientos, aportar valor real a un equipo de desarrollo y continuar creciendo como profesional.
   
 <br>
 
@@ -89,11 +90,6 @@
   
   <br>
   
-## 🎯Objetivo
-Actualmente busco una oportunidad de **práctica académica** donde pueda aplicar mis conocimientos, aportar valor real a un equipo de desarrollo y continuar creciendo como profesional.
-
-<br>
-
 
 ## 📞 Contacto  
 
