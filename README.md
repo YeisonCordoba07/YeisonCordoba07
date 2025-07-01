@@ -1,26 +1,24 @@
 
+
+![YeisonGithubBanner8](https://github.com/user-attachments/assets/31c29ea6-afeb-49da-8f49-61210427f890)
+
+
 ## 🔥 Sobre Mí  
-![YeisonGithubBanner6](https://github.com/user-attachments/assets/80a18e0c-f465-4e5d-bad7-895ad5f94c9d)
+  🎓 Soy Yeison Cordoba, **estudiante de Ingeniería de Sistemas** en la **Universidad de Antioquia**. Poseo conocimientos en desarrollo **Frontend** y **Backend**. 
+  Estoy motivado por enfrentar retos, desafíos o problemas complejos y encontrar soluciones innovadoras.
+  
+<br>
 
+## 💻 Tecnologías y herramientas
 
-🎓 Soy Yeison Cordoba, **estudiante de Ingeniería de Sistemas** en la **Universidad de Antioquia**.  
-💻 Apasionado por el desarrollo web y con conocimientos en:  
 &nbsp;&nbsp;&nbsp;&nbsp;🚀 **Frontend**: React, Angular, NextJS, Astro, Sass, JavaScript, TypeScript, Tailwind CSS  
 &nbsp;&nbsp;&nbsp;&nbsp;⚙️ **Backend**: Java, Spring Boot  
 &nbsp;&nbsp;&nbsp;&nbsp;🛢️ **Bases de Datos**: MySQL  
 &nbsp;&nbsp;&nbsp;&nbsp;📜 **Otros Lenguajes**: Python, C#
 
-📈 He desarrollado diferentes proyectos que muestran mi evolución como desarrollador. Puedes verlos en mi [GitHub](https://github.com/YeisonCordoba07).  
+<br>
 
-📚 **Aprendizaje constante**: Comencé con HTML y CSS, luego integré JavaScript y finalmente continue con React y Angular. Actualmente, estoy aprendiendo **Astro**, con el cual creé mi [portafolio](https://yeisoncordoba07.github.io).  
-
-🎯 **Busco oportunidades** de prácticas académicas para aplicar y fortalecer mis conocimientos en un entorno profesional.  
-
-
-
-## 🛠️ Habilidades
-
-<div align="center">
+<div align="start">
   <table>
     <tr>
       <td align="center">
@@ -77,17 +75,35 @@
   </table>
 </div>
 
+<br>
 
+
+## 🌟 Habilidades blandas
+
+- Resolución creativa de problemas
+- Pensamiento critico
+- Proactividad
+- Adaptabilidad y resiliencia
+- Aprendizaje autónomo
+- Mentalidad de mejora continua
+  
+  <br>
+  
+## 🎯Objetivo
+Actualmente busco una oportunidad de **práctica académica** donde pueda aplicar mis conocimientos, aportar valor real a un equipo de desarrollo y continuar creciendo como profesional.
+
+<br>
 
 
 ## 📞 Contacto  
 
 📩 **Email:** [yalexander.cordoba@gmail.com](mailto:yalexander.cordoba@gmail.com)  
-💼 **LinkedIn:** [YeisonCordoba07](https://www.linkedin.com/in/yeisoncordoba07/)  
-🌍 **Website:** [yeisoncordoba07.github.io](https://yeisoncordoba07.github.io)  
+🌍 **Website / Pagina web:** [yeisoncordoba07.github.io](https://yeisoncordoba07.github.io)  
 📄 **Curriculum Vitae / Hoja de Vida:** [Descargar](https://drive.google.com/file/d/1A5lGA9BbN7OeWUvTBawryiCkYTHTifi4/view?usp=sharing)  
+<!--💼 **LinkedIn:** [YeisonCordoba07](https://www.linkedin.com/in/yeisoncordoba07/)  -->
 
-
+<br>
+<br>
 <!--
 **YeisonCordoba07/YeisonCordoba07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
