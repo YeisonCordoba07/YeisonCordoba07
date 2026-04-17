@@ -4,17 +4,17 @@
 
 
 ## 🔥 Sobre Mí  
-  🎓 Soy Yeison Cordoba, **estudiante de Ingeniería de Sistemas** en la **Universidad de Antioquia**. <br>  💻Poseo conocimientos en desarrollo **Frontend** y **Backend**. <br>
-  🌟Estoy motivado por enfrentar retos, desafíos o problemas complejos y encontrar soluciones innovadoras. <br>
-  🎯Actualmente busco una oportunidad de **práctica académica** donde pueda aplicar mis conocimientos, aportar valor real a un equipo de desarrollo y continuar creciendo como profesional.
+  🎓 Soy Yeison Cordoba, **Ingeniero de Sistemas** . <br>  💻Tengo conocimientos en desarrollo **Frontend (Angular)** y **Backend (Java Spring Boot)** . <br>
+  🌟 Estoy motivado por enfrentar retos, desafíos o problemas complejos y encontrar soluciones innovadoras. <br>
+  🎯 Actualmente busco una empresa donde pueda aplicar mis conocimientos, aportar valor real a un equipo de desarrollo y crecer como profesional.
   
 <br>
 
 ## 💻 Tecnologías y herramientas
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚀 **Frontend**: React, Angular, NextJS, Astro, Sass, JavaScript, TypeScript, Tailwind CSS  
+&nbsp;&nbsp;&nbsp;&nbsp;🚀 **Frontend**: Angular, Sass, JavaScript, TypeScript, Tailwind CSS  
 &nbsp;&nbsp;&nbsp;&nbsp;⚙️ **Backend**: Java, Spring Boot  
-&nbsp;&nbsp;&nbsp;&nbsp;🛢️ **Bases de Datos**: MySQL  
+&nbsp;&nbsp;&nbsp;&nbsp;🛢️ **Bases de Datos**: MySQL, PosgreSQL  
 &nbsp;&nbsp;&nbsp;&nbsp;📜 **Otros Lenguajes**: Python, C#
 
 <br>
@@ -39,23 +39,11 @@
         <br>TypeScript
       </td>
       <td align="center">
-          <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
-        <br>React
-      </td>
-      <td align="center">
           <img src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular" />
         <br>Angular
       </td>
     </tr>
     <tr>
-      <td align="center">
-          <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" />
-        <br>Next.js
-      </td>
-      <td align="center">
-          <img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="Astro" />
-        <br>Astro
-      </td>
       <td align="center">
           <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="TailwindCSS" />
         <br>TailwindCSS
@@ -71,6 +59,10 @@
       <td align="center">
           <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
         <br>MySQL
+      </td>
+      <td align="center">
+          <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" alt="PostgreSQL" />
+      <br>PostgreSQL
       </td>
     </tr>
   </table>
